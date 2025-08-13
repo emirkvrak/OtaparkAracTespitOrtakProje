@@ -3,6 +3,9 @@
 
 Bu proje, otoparka giren araçların plakalarını tanıyarak ve bu bilgileri bir veritabanına kaydederek işleyen bir otopark yönetim sistemidir. Proje, web ve mobil uygulamalara plaka ve park yeri bilgilerini sağlamak için bir backend servisi ile entegre çalışır.
 
+
+![Proje Görseli](https://github.com/emirkvrak/OtaparkAracTespitOrtakProje/blob/main/images/aracimages.png)
+
 ## Özellikler
 
 - **Görüntü İşleme ile Plaka Tanıma:** Python ve OpenCV kullanılarak otoparka giren araçların plakaları tanınır.
